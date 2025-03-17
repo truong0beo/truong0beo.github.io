@@ -103302,7 +103302,7 @@ else if(s===1834)return A.oL(b.h("0?"))}}return a}}
 A.BL.prototype={
 F(){return"AppEnvironment."+this.b}}
 A.Xe.prototype={
-On(){switch("stg"){case"dev":return B.oL
+On(){switch("dev"){case"dev":return B.oL
 case"stg":return B.oM
 case"prod":return B.K6
 default:return B.oM}}}
