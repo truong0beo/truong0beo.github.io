@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fbf166f2-44b8-45d4-a9f5-391f9d05180a" name="Changes" comment="add flutter web 3" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;truong0beo&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/truong0beo/truong0beo.github.io.git&quot;,
+    &quot;accountId&quot;: &quot;69dc146d-aff9-4335-b996-eb519cbeec7a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2tn7FvhMTdfjhJLrOPRWvypDbKf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;AndroidSdkUpdater&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbf166f2-44b8-45d4-a9f5-391f9d05180a" name="Changes" comment="" />
+      <created>1740975884478</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740975884478</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add flutter web">
+      <option name="closed" value="true" />
+      <created>1740975980754</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740975980754</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add flutter web">
+      <option name="closed" value="true" />
+      <created>1740976176279</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740976176279</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add flutter web 2">
+      <option name="closed" value="true" />
+      <created>1740988643008</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740988643008</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add flutter web 3">
+      <option name="closed" value="true" />
+      <created>1740988816919</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1740988816919</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add flutter web 4">
+      <option name="closed" value="true" />
+      <created>1740994830546</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1740994830546</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add flutter web 5">
+      <option name="closed" value="true" />
+      <created>1740994944124</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1740994944124</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add flutter web 6">
+      <option name="closed" value="true" />
+      <created>1740998142385</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1740998142385</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add flutter web 7">
+      <option name="closed" value="true" />
+      <created>1741313978833</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1741313978833</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add flutter web 8">
+      <option name="closed" value="true" />
+      <created>1741598639590</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1741598639591</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add flutter web 9">
+      <option name="closed" value="true" />
+      <created>1741598979218</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1741598979218</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add flutter web 10">
+      <option name="closed" value="true" />
+      <created>1741599162735</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1741599162735</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add flutter web 11">
+      <option name="closed" value="true" />
+      <created>1741745115484</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1741745115484</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add flutter web 12">
+      <option name="closed" value="true" />
+      <created>1741746951685</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1741746951685</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add flutter web 1">
+      <option name="closed" value="true" />
+      <created>1742201573910</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1742201573910</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add flutter web 2">
+      <option name="closed" value="true" />
+      <created>1742201816738</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1742201816738</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add flutter web 3">
+      <option name="closed" value="true" />
+      <created>1742201998401</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1742201998401</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add flutter web" />
+    <MESSAGE value="add flutter web 4" />
+    <MESSAGE value="add flutter web 5" />
+    <MESSAGE value="add flutter web 6" />
+    <MESSAGE value="add flutter web 7" />
+    <MESSAGE value="add flutter web 8" />
+    <MESSAGE value="add flutter web 9" />
+    <MESSAGE value="add flutter web 10" />
+    <MESSAGE value="add flutter web 11" />
+    <MESSAGE value="add flutter web 12" />
+    <MESSAGE value="add flutter web 1" />
+    <MESSAGE value="add flutter web 2" />
+    <MESSAGE value="add flutter web 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="add flutter web 3" />
+  </component>
+</project>
