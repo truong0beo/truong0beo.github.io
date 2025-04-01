@@ -37037,7 +37037,7 @@ A.b_L.prototype={
 $1(a){var s=A.h_().b
 if(s==null)s=null
 else{s=s.canvasKitBaseUrl
-if(s==null)s=null}return(s==null?"/canvaskit":s)+a},
+if(s==null)s=null}return(s==null?"/canvaskit/":s)+a},
 $S:41}
 A.UJ.prototype={
 dL(a){B.c.J(this.a.a.save())},
