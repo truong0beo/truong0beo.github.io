@@ -36,7 +36,7 @@
   <link rel="manifest" href="manifest.json">
   <script>
     // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "1917644866";
+    const serviceWorkerVersion = "1024860813";
   </script>
   </script>
   <!-- This script adds the flutter initialization JS code -->
@@ -49,36 +49,6 @@
   } else {
     pdfjsLib.GlobalWorkerOptions.workerSrc = "assets/pdfjs/pdf.worker.min.js";
   }
-  </script>
-
-  <script src="assets/vnpt-econtract/vnpt-econtract.min.js"></script>
-  <script>
-    window.addEventListener('load', function () {
-      if (typeof VNPTeContract !== 'undefined') {
-        VNPTeContract.init();
-
-        VNPTeContract.callBackEndSign = function (data) {
-          console.log('Callback từ VNPT:', data);
-          if (data && data.status) {
-            if (data.status === 'SIGN_SUCCESS') {
-              console.log('Ký thành công!');
-              window.onSignSuccess(data);
-            } else if (data.status === 'CANCEL') {
-              console.log('Hủy ký!');
-              window.onSignCancel(data);
-            }
-          }
-        };
-      }
-    });
-
-    function startVNPTSign(inputData) {
-      if (typeof VNPTeContract !== 'undefined') {
-        VNPTeContract.open(inputData);
-      } else {
-        console.error("VNPTeContract chưa được load!");
-      }
-    }
   </script>
 
 </head>
