@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbf166f2-44b8-45d4-a9f5-391f9d05180a" name="Changes" comment="add flutter web 11">
+    <list default="true" id="fbf166f2-44b8-45d4-a9f5-391f9d05180a" name="Changes" comment="add flutter web 12">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -267,12 +267,19 @@
       <option name="project" value="LOCAL" />
       <updated>1744859787592</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="add flutter web 12">
+      <option name="closed" value="true" />
+      <created>1744863197617</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1744863197617</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add flutter web" />
-    <MESSAGE value="add flutter web 12" />
     <MESSAGE value="add flutter web 1" />
     <MESSAGE value="add flutter web 2" />
     <MESSAGE value="add flutter web 3" />
@@ -284,6 +291,7 @@
     <MESSAGE value="add flutter web 9" />
     <MESSAGE value="add flutter web 10" />
     <MESSAGE value="add flutter web 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="add flutter web 11" />
+    <MESSAGE value="add flutter web 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="add flutter web 12" />
   </component>
 </project>
