@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbf166f2-44b8-45d4-a9f5-391f9d05180a" name="Changes" comment="add flutter web 12">
+    <list default="true" id="fbf166f2-44b8-45d4-a9f5-391f9d05180a" name="Changes" comment="add flutter web 13">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -275,7 +275,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744863197617</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="add flutter web 13">
+      <option name="closed" value="true" />
+      <created>1745233151309</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1745233151309</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -292,6 +300,7 @@
     <MESSAGE value="add flutter web 10" />
     <MESSAGE value="add flutter web 11" />
     <MESSAGE value="add flutter web 12" />
-    <option name="LAST_COMMIT_MESSAGE" value="add flutter web 12" />
+    <MESSAGE value="add flutter web 13" />
+    <option name="LAST_COMMIT_MESSAGE" value="add flutter web 13" />
   </component>
 </project>
